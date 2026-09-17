@@ -1,6 +1,6 @@
 ---
 name: add-reference
-description: Instructions for adding new blog posts, talks, or other references to REFERENCES.md
+description: Instructions for adding new blog posts, talks, or  other references to REFERENCES.md
 ---
 
 # Skill: Adding a new Reference to REFERENCES.md
